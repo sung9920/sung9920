@@ -24,10 +24,10 @@
 <br>
 
 ## 📊 My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your-GitHub-ID]&show_icons=true&theme=radical&locale=ko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[sung9920]&show_icons=true&theme=radical&locale=ko)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
 ## 📫 Contact
-- **Email**: your-email@example.com
-- **Blog**: https://your-blog.com
+- **Email**: sungcheol9920@gmail.com
+- **Blog**: https://sung9920.tistory.com
